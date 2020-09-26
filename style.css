@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(182, 255, 251) ;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 50%;
+}
+h2 {
+    color: maroon;
+}
+p {
+    color: rgb(29, 139, 66);
+}
